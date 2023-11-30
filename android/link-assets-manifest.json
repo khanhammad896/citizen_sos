@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/NotoNastaliqUrdu-Bold.ttf",
+      "sha1": "db268cd0e4ef29f66fa1236f70578e5edd5e2bcc"
+    },
+    {
+      "path": "src/assets/fonts/NotoNastaliqUrdu-Medium.ttf",
+      "sha1": "fc7e9cb346e653d14e11bc0304cee401525ed269"
+    },
+    {
+      "path": "src/assets/fonts/NotoNastaliqUrdu-Regular.ttf",
+      "sha1": "9fc7cd62610ef380653a2f343df669d5b31a1ee4"
+    },
+    {
+      "path": "src/assets/fonts/NotoNastaliqUrdu-SemiBold.ttf",
+      "sha1": "a4f470e6e2584959bd12803103fe5a2eafaf565c"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    }
+  ]
+}
