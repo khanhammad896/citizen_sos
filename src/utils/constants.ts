@@ -1,6 +1,6 @@
 import { Dimensions } from "react-native";
 
-export const BASE_URL = "https://scicc.islamabadpolice.gov.pk/public/api/v1/";
+export const BASE_URL = "https://jsonplaceholder.typicode.com/posts";
 export const AUTH_KEY = "@authdata";
 export const ON_BOARDED_KEY = "@onBoarded";
 export const LANGUAGE_KEY = "@language";
